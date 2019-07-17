@@ -1,2 +1,4 @@
 .ignoreme
 *.log
+log/
+gitlog/
