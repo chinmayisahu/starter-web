@@ -21,3 +21,7 @@ iiiooki  ii
 heeuwueuwueu
 
 Please fork this reposiory and then issue Pull Requests for review
+
+### Copyright
+
+2014 Git.Training. All rights rserved
